@@ -1,9 +1,9 @@
 # Mahbub
 Beecrowd beginner problem 1009 solution with java code 
-Aurthor-Mahbubur Rahman
-
-import java.util.Scanner;
-import java.text.DecimalFormat;
+<br>Aurthor-Mahbubur Rahman
+<br>
+import java.util.Scanner; //<br>
+import java.text.DecimalFormat; //<br>
 public class praticee {
     public static void main(String[] args) {
         
